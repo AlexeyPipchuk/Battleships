@@ -1,0 +1,10 @@
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\bin\Debug\Kolmagorov.exe.config
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\bin\Debug\Kolmagorov.exe
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\bin\Debug\Kolmagorov.pdb
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.Properties.Resources.resources
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.csproj.GenerateResource.cache
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.exe
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.pdb
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.Kolmagorov_Battleships.resources
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Debug\Kolmagorov.csprojAssemblyReference.cache

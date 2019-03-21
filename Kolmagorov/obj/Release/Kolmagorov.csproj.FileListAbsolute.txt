@@ -1,0 +1,9 @@
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\bin\Release\Kolmagorov.exe.config
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\bin\Release\Kolmagorov.exe
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\bin\Release\Kolmagorov.pdb
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Release\Kolmagorov.Kolmagorov_Battleships.resources
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Release\Kolmagorov.Properties.Resources.resources
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Release\Kolmagorov.csproj.GenerateResource.cache
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Release\Kolmagorov.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Release\Kolmagorov.exe
+C:\Users\Alexey\Desktop\Kolmagorov\Kolmagorov\obj\Release\Kolmagorov.pdb
